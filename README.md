@@ -1,4 +1,3 @@
-# Multilingual-Social-Media-Sentiment-Analysis
 # Multilingual Social Media Sentiment Analysis
 
 ## Overview
